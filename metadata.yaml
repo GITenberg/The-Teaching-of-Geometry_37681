@@ -1,0 +1,31 @@
+_repo: The-Teaching-of-Geometry_37681
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, David Eugene
+    aliases:
+    - Dunham, David
+    - Smith, Eugene
+    birthdate: 1860
+    deathdate: 1944
+    gutenberg_agent_id: '3258'
+    url: http://www.gutenberg.org/2009/agents/3258
+    wikipedia: http://en.wikipedia.org/wiki/David_Eugene_Smith
+description: ''
+gutenberg_issued: '2011-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37681'
+  lccn: '11018829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Geometry -- Study and teaching'
+title: The Teaching of Geometry
+url: http://www.gutenberg.org/ebooks/37681
